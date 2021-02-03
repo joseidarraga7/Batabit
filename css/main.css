@@ -111,7 +111,7 @@ header img {
     width: 210px;
     height: 210px;
     margin: 20px auto;
-    background-image: url(../assets/imgs/bitcoin.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330364/batabit/bitcoin_wgwrqt.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -197,7 +197,7 @@ header img {
     width: 15px;
     height: 12px;
     margin-left: 8px;
-    background-image: url(../assets/icons/trending-down.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330498/batabit/trending-down_mjxqhe.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -207,7 +207,7 @@ header img {
     width: 15px;
     height: 12px;
     margin-left: 8px;
-    background-image: url(../assets/icons/trending-up.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330498/batabit/trending-up_l14pod.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -262,7 +262,7 @@ table .price {
     height: 25px;
     top: -12px;
     left: calc(50% - 20px);
-    background-image: url(../assets/imgs/batata.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330363/batabit/batata_skn3dd.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -317,19 +317,19 @@ table .price {
 }
 
 .details-card .clock {
-    background-image: url(../assets/icons/clock.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330496/batabit/clock_comnzd.svg);
 }
 
 .details-card .eye {
-    background-image: url(../assets/icons/eye.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330496/batabit/eye_m9ecdh.svg);
 }
 
 .details-card .dollar {
-    background-image: url(../assets/icons/dollar-sign.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330496/batabit/dollar-sign_owmg44.svg);
 }
 
 .details-card .checkmark {
-    background-image: url(../assets/icons/check-circle.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330496/batabit/check-circle_qyjcp9.svg);
 }
 
 .details-card h3 {
@@ -350,7 +350,7 @@ table .price {
 .main_img-container {
     width: 100%;
     height: 50vh;
-    background-image: url(../assets/imgs/bitcoinbaby\ 1.jpg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330366/batabit/bitcoinbaby_1_kwqh3t.jpg);
     background-size: cover;
     background-position: 0% 50%;
     background-repeat: no-repeat;
@@ -509,7 +509,7 @@ table .price {
     display: inline-block;
     width: 22px;
     height: 24px;
-    background-image: url(../assets/icons/arrow-right.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330496/batabit/arrow-right_bcwmsa.svg);
     background-size: cover;
     vertical-align: -7px;
     margin-left: 3px;
@@ -557,7 +557,7 @@ footer {
     margin-bottom: 10px;
     width: 85%;
     height: 50%;
-    background-image: url(../assets/imgs/batata.svg);
+    background-image: url(https://res.cloudinary.com/jluisdev/image/upload/v1612330363/batabit/batata_skn3dd.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
